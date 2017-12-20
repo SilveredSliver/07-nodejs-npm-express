@@ -82,26 +82,28 @@ _Your repository must include:_
 _Your README.md must include:_
 
 ```md
-# Project Name
+# Project Name lab-07-Node.js-NPM-ExpressJS
 
-**Author**: Your Name Goes Here
+**Author**: Aaron Bruce, Ixius Procopios
 **Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
 
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
-
+This application is designed to load an initial list of articles and create an array of those articles inside local storage that can be filtered, edited, and/or included with new articles created from new.html that can be remotely accessed through the use of AJAX and JSON.
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+Javascript, JQuery, Express, Node, NPM, AJAX, JSON, HTML, CSS, Icomoon
 
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
-
+read the reviews, added/answered comments, followed user stories appropriately.
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+--> Ixius Procopios was partnered with Aaron Bruce, driver/navigator style.
+Credit to the creators of this project as well as those who had a hand in the resources used in it.
 ```
